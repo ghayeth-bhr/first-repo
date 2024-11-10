@@ -1,0 +1,41 @@
+﻿** back-end ** :
+  1/ programming language and framework : javascript(Express.js)/python(Django). 
+  2/ git/github : version control system
+  3/ data base using sql languge : MySQL,Mangodb .
+ **front-end**:
+  1/html
+  2/css:SASS,bootsrap/Tailwind
+  3/javascript
+  4/typescript
+  5/react 
+
+
+https://www.figma.com/design/Btz77CweL7YVLYMPuKFCcG/Routiner---Habit-Tracker-App-(Community)?node-id=311-23230&node-type=canvas&t=qd0OtkutmwCz8DCs-0
+https://www.figma.com/design/qL27Xpt6IN8ahcYsjOvuiq/HABITA-Habit-Tracker-UI-Kit-(Community)?node-id=3-2&node-type=canvas&t=xQASgowTpBhRD8p0-0
+https://www.figma.com/design/AxXFKIDHpulmiE0FJt4Rxn/Daily-Routine-Tracker-App-(Community)?node-id=279-31682&node-type=&t=RssiCht7TjwNrXXy-0
+
+ 1. Front-End (User Interface)
+
+
+- HTML
+
+
+- CSS (SASS, Bootstrap or Tailwind).
+
+- JavaScript & TypeScript (react)
+
+
+
+2. Back-End (Server and Database)
+
+
+- JavaScript (Express.js) or Python (Django)
+
+ 
+
+- Databases (MySQL or MongoDB(noSQL))
+
+  
+
+3. Version Control (Git/GitHub)
+Git/GitHub
